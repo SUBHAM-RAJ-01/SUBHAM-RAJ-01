@@ -1,10 +1,8 @@
 - 👋 Hi, I’m SUBHAM-RAJ
 - 👀 I’m interested in Web and App development
-- 🌱 I’m currently learning MERN
+- 🌱 I’m currently learning ML
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me . Mail me : srajpatna45@gmail.com
-- 😄 Pronouns: . He/Him
-- ⚡ Fun fact: . World is all about ~fun
+- 📫 How to reach me . Mail me : subhamraj.work@gmail.com
 - 
 
 <!---
