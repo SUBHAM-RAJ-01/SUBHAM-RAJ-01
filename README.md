@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **NodeJS, NextJS, Data Structures**
 
-- 👨‍💻 All of my projects are available at [subhamport.netlify.app](subhamport.netlify.app)
+- 👨‍💻 All of my projects are available at [subhamport.netlify.app](https://subhamport.netlify.app/)
 
 - 💬 Ask me about **react, frontend technologies**
 
