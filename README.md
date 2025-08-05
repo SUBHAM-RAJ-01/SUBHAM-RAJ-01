@@ -20,7 +20,7 @@ const subham = {
 
 ## 🔭 Current Projects
 
-🗳️ **Crypto-Based E-Voting Platform** - Building a secure, transparent voting system using blockchain technology for tamper-proof elections
+🗳️ **BlockChain-Based E-Voting Platform** - Building a secure, transparent voting system using blockchain technology for tamper-proof elections
 
 🅿️ **AI-Powered Parking Management** - Smart IoT solution for efficient parking space management
 
