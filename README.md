@@ -55,21 +55,27 @@ const subham = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=subham-raj-01&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=subham-raj-01&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=subham-raj-01&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=subham-raj-01&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subham-raj-01&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subham-raj-01&layout=compact&theme=radical&hide_border=true&include_all_commits=true&count_private=true&langs_count=10" alt="Top Languages" />
+</div>
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=subham-raj-01&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
 
 ## 🏆 Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=subham-raj-01&theme=radical&row=1&column=6" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=subham-raj-01&theme=radical&row=1&column=6&no-frame=true&no-bg=true&cache_seconds=86400" alt="Trophies" />
 </div>
 
 ## 🌐 Connect With Me
